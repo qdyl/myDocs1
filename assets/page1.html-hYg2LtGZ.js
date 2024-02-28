@@ -1,0 +1,14 @@
+import{_ as a}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as e,c as l,a as r,e as i}from"./app-9j9ot_2h.js";const t={},d=i('<h2 id="一、常用html标签" tabindex="-1"><a class="header-anchor" href="#一、常用html标签" aria-hidden="true">#</a> 一、常用HTML标签</h2><h3 id="布局类" tabindex="-1"><a class="header-anchor" href="#布局类" aria-hidden="true">#</a> 布局类</h3><ul><li>header</li><li>nav</li><li>main</li><li>aside</li><li>section</li><li>footer</li><li>div</li></ul><h3 id="文章排版" tabindex="-1"><a class="header-anchor" href="#文章排版" aria-hidden="true">#</a> 文章排版</h3><ul><li>h1~h6</li><li>article</li><li>p</li></ul>',5),h=i('<h3 id="图像" tabindex="-1"><a class="header-anchor" href="#图像" aria-hidden="true">#</a> 图像</h3><h3 id="列表" tabindex="-1"><a class="header-anchor" href="#列表" aria-hidden="true">#</a> 列表</h3><ul><li>ul</li><li>ol</li><li>li</li><li><mark>dl</mark></li><li><mark>dt</mark></li><li><mark>dd</mark></li></ul><h3 id="表格table" tabindex="-1"><a class="header-anchor" href="#表格table" aria-hidden="true">#</a> 表格table</h3><ul><li>table</li><li>thead</li><li>tbody</li><li>tr</li><li>th</li><li>td</li></ul><h2 id="推荐使用的-h5-新标签" tabindex="-1"><a class="header-anchor" href="#推荐使用的-h5-新标签" aria-hidden="true">#</a> 推荐使用的 H5 新标签</h2><ul><li><mark>time</mark></li><li>address</li><li>progress</li><li>details</li><li>summary</li></ul><h2 id="其他了解" tabindex="-1"><a class="header-anchor" href="#其他了解" aria-hidden="true">#</a> 其他了解</h2><ul><li>meter</li></ul>',9);function n(s,o){return e(),l("div",null,[d,r(` ### 表单
+- form
+- input
+- textarea
+- button
+- select
+- optgroup
+- option
+- label
+- fieldset
+- legend
+- datalist
+- keygen
+- output `),h])}const m=a(t,[["render",n],["__file","page1.html.vue"]]);export{m as default};
